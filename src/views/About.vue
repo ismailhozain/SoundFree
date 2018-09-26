@@ -17,7 +17,7 @@
 						<p>Saffat is a senior at Mckinney high school.____________</p>
 				</div>
 				<div class="aboutEvanDiv text-center">
-					<h2>Evan Lastname</h2>
+					<h2>Evan Varghese</h2>
 						<p>Evan is a senior at Mckinney High School._____________</p>
 				</div>
 			</div>	
